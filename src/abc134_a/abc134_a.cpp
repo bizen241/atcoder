@@ -9,4 +9,6 @@ int main() {
   int area = r * r * 3;
 
   cout << area << endl;
+
+  return 0;
 }

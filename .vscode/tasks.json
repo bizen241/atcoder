@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "command": "/usr/bin/g++-7",
+      "args": ["-g", "-O2", "-std=c++14", "${file}"],
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "type": "shell",
+      "label": "test",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "command": "${workspaceFolder}/test.sh ${fileBasenameNoExtension}"
+    }
+  ]
+}

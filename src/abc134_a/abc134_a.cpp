@@ -1,3 +1,7 @@
+/**
+ * keywords: 正多角形
+ * url: https://atcoder.jp/contests/abc134/tasks/abc134_a
+ */
 #include <iostream>
 
 using namespace std;

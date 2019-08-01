@@ -9,7 +9,7 @@
         "isDefault": true
       },
       "command": "/usr/bin/g++-7",
-      "args": ["-g", "-O2", "-std=c++14", "${file}"],
+      "args": ["-g", "-O0", "-std=c++14", "${file}"],
       "problemMatcher": ["$gcc"]
     },
     {

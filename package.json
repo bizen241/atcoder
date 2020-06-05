@@ -1,0 +1,8 @@
+{
+  "name": "atcoder",
+  "version": "0.0.0",
+  "author": "bizen241",
+  "dependencies": {
+    "typescript": "3.8.3"
+  }
+}

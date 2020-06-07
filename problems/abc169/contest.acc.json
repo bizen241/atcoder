@@ -29,7 +29,11 @@
       "id": "abc169_c",
       "label": "C",
       "title": "Multiplication 3",
-      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_c"
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc169_d",

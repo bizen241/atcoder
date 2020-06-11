@@ -49,7 +49,11 @@
       "id": "abc169_e",
       "label": "E",
       "title": "Count Median",
-      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_e"
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc169_f",

@@ -59,7 +59,11 @@
       "id": "abc169_f",
       "label": "F",
       "title": "Knapsack for All Subsets",
-      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_f"
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
     }
   ]
 }

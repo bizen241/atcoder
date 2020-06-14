@@ -1,3 +1,5 @@
+// median
+
 import { readFileSync } from "fs";
 
 const read = () =>

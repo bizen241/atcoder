@@ -1,3 +1,5 @@
+// error
+
 import { readFileSync } from "fs";
 
 const main = (input: string[][]) => {

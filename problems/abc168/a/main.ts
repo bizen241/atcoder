@@ -1,3 +1,5 @@
+// conditional
+
 import { readFileSync } from "fs";
 
 const read = () =>

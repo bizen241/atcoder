@@ -1,3 +1,6 @@
+// string
+// length
+
 import { readFileSync } from "fs";
 
 const read = () =>

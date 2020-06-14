@@ -1,3 +1,7 @@
+// distance
+// law of cosines
+// clock
+
 import { readFileSync } from "fs";
 
 const read = () =>

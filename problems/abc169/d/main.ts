@@ -1,3 +1,6 @@
+// prime factorize
+// greedy
+
 import { readFileSync } from "fs";
 
 const read = () =>

@@ -1,3 +1,7 @@
+// dp
+// knapsack
+// formal power series
+
 import { readFileSync } from "fs";
 
 const read = () =>

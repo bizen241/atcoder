@@ -29,7 +29,11 @@
       "id": "abc168_c",
       "label": "C",
       "title": ": (Colon)",
-      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_c"
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc168_d",

@@ -1,4 +1,4 @@
-// string
+// sum, max
 
 import { readFileSync } from "fs";
 
@@ -8,10 +8,9 @@ const read = () =>
     .map((line) => line.split(" "));
 
 const main = (input: string[][]) => {
-  const S = input[0][0];
-  const T = input[1][0];
+  const [A, B, , K] = input[0].map(Number);
 
-  return T.slice(0, -1) === S ? "Yes" : "No";
+  return Math.min(A, K) - Math.max(K - (A + B), 0);
 };
 
 console.log(main(read()));

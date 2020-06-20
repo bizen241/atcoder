@@ -20,7 +20,12 @@
       "id": "abc017_2",
       "label": "B",
       "title": "choku語",
-      "url": "https://atcoder.jp/contests/abc017/tasks/abc017_2"
+      "url": "https://atcoder.jp/contests/abc017/tasks/abc017_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc017_3",

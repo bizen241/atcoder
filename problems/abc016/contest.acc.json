@@ -20,7 +20,12 @@
       "id": "abc016_2",
       "label": "B",
       "title": "A±B Problem",
-      "url": "https://atcoder.jp/contests/abc016/tasks/abc016_2"
+      "url": "https://atcoder.jp/contests/abc016/tasks/abc016_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc016_3",

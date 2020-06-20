@@ -20,7 +20,12 @@
       "id": "abc011_2",
       "label": "B",
       "title": "名前の確認",
-      "url": "https://atcoder.jp/contests/abc011/tasks/abc011_2"
+      "url": "https://atcoder.jp/contests/abc011/tasks/abc011_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc011_3",

@@ -20,7 +20,12 @@
       "id": "abc009_2",
       "label": "B",
       "title": "心配性な富豪、ファミリーレストランに行く。",
-      "url": "https://atcoder.jp/contests/abc009/tasks/abc009_2"
+      "url": "https://atcoder.jp/contests/abc009/tasks/abc009_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc009_3",

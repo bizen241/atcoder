@@ -20,7 +20,12 @@
       "id": "abc015_2",
       "label": "B",
       "title": "高橋くんの集計",
-      "url": "https://atcoder.jp/contests/abc015/tasks/abc015_2"
+      "url": "https://atcoder.jp/contests/abc015/tasks/abc015_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc015_3",

@@ -20,7 +20,12 @@
       "id": "abc010_2",
       "label": "B",
       "title": "花占い",
-      "url": "https://atcoder.jp/contests/abc010/tasks/abc010_2"
+      "url": "https://atcoder.jp/contests/abc010/tasks/abc010_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc010_3",

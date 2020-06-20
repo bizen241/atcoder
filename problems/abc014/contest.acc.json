@@ -20,7 +20,12 @@
       "id": "abc014_2",
       "label": "B",
       "title": "価格の合計",
-      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_2"
+      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc014_3",

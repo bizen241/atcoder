@@ -20,7 +20,12 @@
       "id": "abc008_2",
       "label": "B",
       "title": "投票",
-      "url": "https://atcoder.jp/contests/abc008/tasks/abc008_2"
+      "url": "https://atcoder.jp/contests/abc008/tasks/abc008_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc008_3",

@@ -20,7 +20,12 @@
       "id": "abc028_b",
       "label": "B",
       "title": "文字数カウント",
-      "url": "https://atcoder.jp/contests/abc028/tasks/abc028_b"
+      "url": "https://atcoder.jp/contests/abc028/tasks/abc028_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc028_c",

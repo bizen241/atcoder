@@ -20,7 +20,12 @@
       "id": "abc021_b",
       "label": "B",
       "title": "嘘つきの高橋くん",
-      "url": "https://atcoder.jp/contests/abc021/tasks/abc021_b"
+      "url": "https://atcoder.jp/contests/abc021/tasks/abc021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc021_c",

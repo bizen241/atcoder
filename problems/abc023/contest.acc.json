@@ -20,7 +20,12 @@
       "id": "abc023_b",
       "label": "B",
       "title": "手芸王",
-      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_b"
+      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc023_c",

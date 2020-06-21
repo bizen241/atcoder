@@ -20,7 +20,12 @@
       "id": "abc026_b",
       "label": "B",
       "title": "N重丸",
-      "url": "https://atcoder.jp/contests/abc026/tasks/abc026_b"
+      "url": "https://atcoder.jp/contests/abc026/tasks/abc026_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc026_c",

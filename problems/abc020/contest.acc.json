@@ -20,7 +20,12 @@
       "id": "abc020_b",
       "label": "B",
       "title": "足し算",
-      "url": "https://atcoder.jp/contests/abc020/tasks/abc020_b"
+      "url": "https://atcoder.jp/contests/abc020/tasks/abc020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc020_c",

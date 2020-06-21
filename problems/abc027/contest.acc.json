@@ -20,7 +20,12 @@
       "id": "abc027_b",
       "label": "B",
       "title": "島と橋",
-      "url": "https://atcoder.jp/contests/abc027/tasks/abc027_b"
+      "url": "https://atcoder.jp/contests/abc027/tasks/abc027_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc027_c",

@@ -20,7 +20,12 @@
       "id": "abc024_b",
       "label": "B",
       "title": "自動ドア",
-      "url": "https://atcoder.jp/contests/abc024/tasks/abc024_b"
+      "url": "https://atcoder.jp/contests/abc024/tasks/abc024_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc024_c",

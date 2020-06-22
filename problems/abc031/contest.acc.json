@@ -20,7 +20,12 @@
       "id": "abc031_b",
       "label": "B",
       "title": "運動管理",
-      "url": "https://atcoder.jp/contests/abc031/tasks/abc031_b"
+      "url": "https://atcoder.jp/contests/abc031/tasks/abc031_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc031_c",

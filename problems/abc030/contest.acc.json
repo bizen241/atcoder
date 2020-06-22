@@ -20,7 +20,12 @@
       "id": "abc030_b",
       "label": "B",
       "title": "時計盤",
-      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_b"
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc030_c",

@@ -20,7 +20,12 @@
       "id": "abc035_b",
       "label": "B",
       "title": "ドローン",
-      "url": "https://atcoder.jp/contests/abc035/tasks/abc035_b"
+      "url": "https://atcoder.jp/contests/abc035/tasks/abc035_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc035_c",

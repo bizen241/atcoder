@@ -20,7 +20,12 @@
       "id": "abc033_b",
       "label": "B",
       "title": "町の合併",
-      "url": "https://atcoder.jp/contests/abc033/tasks/abc033_b"
+      "url": "https://atcoder.jp/contests/abc033/tasks/abc033_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc033_c",

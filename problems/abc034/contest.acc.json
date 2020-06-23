@@ -20,7 +20,12 @@
       "id": "abc034_b",
       "label": "B",
       "title": "ペア",
-      "url": "https://atcoder.jp/contests/abc034/tasks/abc034_b"
+      "url": "https://atcoder.jp/contests/abc034/tasks/abc034_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc034_c",

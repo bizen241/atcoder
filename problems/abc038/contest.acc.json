@@ -20,7 +20,12 @@
       "id": "abc038_b",
       "label": "B",
       "title": "ディスプレイ",
-      "url": "https://atcoder.jp/contests/abc038/tasks/abc038_b"
+      "url": "https://atcoder.jp/contests/abc038/tasks/abc038_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc038_c",

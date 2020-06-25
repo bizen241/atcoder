@@ -20,7 +20,12 @@
       "id": "abc046_b",
       "label": "B",
       "title": "Painting Balls with AtCoDeer",
-      "url": "https://atcoder.jp/contests/abc046/tasks/abc046_b"
+      "url": "https://atcoder.jp/contests/abc046/tasks/abc046_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc062_a",

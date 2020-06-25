@@ -20,7 +20,12 @@
       "id": "abc039_b",
       "label": "B",
       "title": "エージェント高橋君",
-      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_b"
+      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc039_c",

@@ -1,3 +1,4 @@
 {
+  "editor.tabCompletion": "on",
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe"
 }

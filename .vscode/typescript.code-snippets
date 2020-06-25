@@ -1,0 +1,37 @@
+{
+  "template": {
+    "prefix": "t",
+    "body": [
+      "import { readFileSync } from \"fs\";",
+      "",
+      "const read = () =>",
+      "\treadFileSync(0, \"utf8\")",
+      "\t\t.split(\"\\n\")",
+      "\t\t.map((line) => line.split(\" \"));",
+      "",
+      "const main = (input: string[][]) => {",
+      "\t${1}",
+      "",
+      "\treturn;",
+      "};",
+      "",
+      "console.log(main(read()));"
+    ]
+  },
+  "input string": {
+    "prefix": "s",
+    "body": "const ${1} = input[${2:0}][${3:0}];"
+  },
+  "input strings": {
+    "prefix": "ss",
+    "body": "const ${1} = input[${2:0}];"
+  },
+  "input number": {
+    "prefix": "n",
+    "body": "const ${1} = Number(input[${2:0}][${3:0}]);"
+  },
+  "input numbers": {
+    "prefix": "ns",
+    "body": "const ${1} = input[${2:0][${3:0}].map(Number);"
+  }
+}

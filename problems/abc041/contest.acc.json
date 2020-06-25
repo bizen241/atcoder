@@ -20,7 +20,12 @@
       "id": "abc041_b",
       "label": "B",
       "title": "直方体",
-      "url": "https://atcoder.jp/contests/abc041/tasks/abc041_b"
+      "url": "https://atcoder.jp/contests/abc041/tasks/abc041_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc041_c",

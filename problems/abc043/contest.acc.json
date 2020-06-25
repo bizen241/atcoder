@@ -20,7 +20,12 @@
       "id": "abc043_b",
       "label": "B",
       "title": "Unhappy Hacking (ABC Edit)",
-      "url": "https://atcoder.jp/contests/abc043/tasks/abc043_b"
+      "url": "https://atcoder.jp/contests/abc043/tasks/abc043_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc059_a",

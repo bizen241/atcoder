@@ -20,7 +20,12 @@
       "id": "abc055_b",
       "label": "B",
       "title": "Training Camp",
-      "url": "https://atcoder.jp/contests/abc055/tasks/abc055_b"
+      "url": "https://atcoder.jp/contests/abc055/tasks/abc055_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc069_a",

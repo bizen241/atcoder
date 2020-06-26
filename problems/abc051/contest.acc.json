@@ -20,7 +20,12 @@
       "id": "abc051_b",
       "label": "B",
       "title": "Sum of Three Integers",
-      "url": "https://atcoder.jp/contests/abc051/tasks/abc051_b"
+      "url": "https://atcoder.jp/contests/abc051/tasks/abc051_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc051_c",

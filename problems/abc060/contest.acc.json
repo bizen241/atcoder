@@ -20,7 +20,12 @@
       "id": "abc060_b",
       "label": "B",
       "title": "Choose Integers",
-      "url": "https://atcoder.jp/contests/abc060/tasks/abc060_b"
+      "url": "https://atcoder.jp/contests/abc060/tasks/abc060_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc073_a",

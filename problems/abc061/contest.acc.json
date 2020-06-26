@@ -20,7 +20,12 @@
       "id": "abc061_b",
       "label": "B",
       "title": "Counting Roads",
-      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_b"
+      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc061_c",

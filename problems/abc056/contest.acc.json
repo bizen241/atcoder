@@ -20,7 +20,12 @@
       "id": "abc056_b",
       "label": "B",
       "title": "NarrowRectanglesEasy",
-      "url": "https://atcoder.jp/contests/abc056/tasks/abc056_b"
+      "url": "https://atcoder.jp/contests/abc056/tasks/abc056_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc070_a",

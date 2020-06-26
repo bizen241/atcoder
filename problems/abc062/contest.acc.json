@@ -20,7 +20,12 @@
       "id": "abc062_b",
       "label": "B",
       "title": "Picture Frame",
-      "url": "https://atcoder.jp/contests/abc062/tasks/abc062_b"
+      "url": "https://atcoder.jp/contests/abc062/tasks/abc062_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc074_a",

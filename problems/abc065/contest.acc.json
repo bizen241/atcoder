@@ -20,7 +20,12 @@
       "id": "abc065_b",
       "label": "B",
       "title": "Trained?",
-      "url": "https://atcoder.jp/contests/abc065/tasks/abc065_b"
+      "url": "https://atcoder.jp/contests/abc065/tasks/abc065_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc076_a",

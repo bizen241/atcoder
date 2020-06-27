@@ -20,7 +20,12 @@
       "id": "abc075_b",
       "label": "B",
       "title": "Minesweeper",
-      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_b"
+      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc075_c",

@@ -20,7 +20,12 @@
       "id": "abc072_b",
       "label": "B",
       "title": "OddString",
-      "url": "https://atcoder.jp/contests/abc072/tasks/abc072_b"
+      "url": "https://atcoder.jp/contests/abc072/tasks/abc072_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc082_a",

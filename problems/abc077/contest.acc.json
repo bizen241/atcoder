@@ -20,7 +20,12 @@
       "id": "abc077_b",
       "label": "B",
       "title": "Around Square",
-      "url": "https://atcoder.jp/contests/abc077/tasks/abc077_b"
+      "url": "https://atcoder.jp/contests/abc077/tasks/abc077_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc084_a",

@@ -20,7 +20,12 @@
       "id": "abc080_b",
       "label": "B",
       "title": "Harshad Number",
-      "url": "https://atcoder.jp/contests/abc080/tasks/abc080_b"
+      "url": "https://atcoder.jp/contests/abc080/tasks/abc080_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc080_c",

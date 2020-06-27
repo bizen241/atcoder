@@ -20,7 +20,12 @@
       "id": "abc074_b",
       "label": "B",
       "title": "Collecting Balls (Easy Version)",
-      "url": "https://atcoder.jp/contests/abc074/tasks/abc074_b"
+      "url": "https://atcoder.jp/contests/abc074/tasks/abc074_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc083_a",

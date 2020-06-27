@@ -20,7 +20,12 @@
       "id": "abc068_b",
       "label": "B",
       "title": "Break Number",
-      "url": "https://atcoder.jp/contests/abc068/tasks/abc068_b"
+      "url": "https://atcoder.jp/contests/abc068/tasks/abc068_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc079_a",

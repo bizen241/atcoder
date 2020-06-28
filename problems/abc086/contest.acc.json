@@ -20,7 +20,12 @@
       "id": "abc086_b",
       "label": "B",
       "title": "1 21",
-      "url": "https://atcoder.jp/contests/abc086/tasks/abc086_b"
+      "url": "https://atcoder.jp/contests/abc086/tasks/abc086_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc089_a",

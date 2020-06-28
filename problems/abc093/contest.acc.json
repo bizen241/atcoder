@@ -20,7 +20,12 @@
       "id": "abc093_b",
       "label": "B",
       "title": "Small and Large Integers",
-      "url": "https://atcoder.jp/contests/abc093/tasks/abc093_b"
+      "url": "https://atcoder.jp/contests/abc093/tasks/abc093_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc094_a",

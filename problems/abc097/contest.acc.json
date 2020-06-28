@@ -20,7 +20,12 @@
       "id": "abc097_b",
       "label": "B",
       "title": "Exponential",
-      "url": "https://atcoder.jp/contests/abc097/tasks/abc097_b"
+      "url": "https://atcoder.jp/contests/abc097/tasks/abc097_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc097_a",

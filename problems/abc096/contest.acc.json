@@ -20,7 +20,12 @@
       "id": "abc096_b",
       "label": "B",
       "title": "Maximum Sum",
-      "url": "https://atcoder.jp/contests/abc096/tasks/abc096_b"
+      "url": "https://atcoder.jp/contests/abc096/tasks/abc096_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc096_c",

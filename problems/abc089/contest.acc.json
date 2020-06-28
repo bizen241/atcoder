@@ -20,7 +20,12 @@
       "id": "abc089_b",
       "label": "B",
       "title": "Hina Arare",
-      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_b"
+      "url": "https://atcoder.jp/contests/abc089/tasks/abc089_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc089_c",

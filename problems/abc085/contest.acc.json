@@ -20,7 +20,12 @@
       "id": "abc085_b",
       "label": "B",
       "title": "Kagami Mochi",
-      "url": "https://atcoder.jp/contests/abc085/tasks/abc085_b"
+      "url": "https://atcoder.jp/contests/abc085/tasks/abc085_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc085_c",

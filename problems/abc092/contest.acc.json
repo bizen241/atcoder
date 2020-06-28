@@ -20,7 +20,12 @@
       "id": "abc092_b",
       "label": "B",
       "title": "Chocolate",
-      "url": "https://atcoder.jp/contests/abc092/tasks/abc092_b"
+      "url": "https://atcoder.jp/contests/abc092/tasks/abc092_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc093_a",

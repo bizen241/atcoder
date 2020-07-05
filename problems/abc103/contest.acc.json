@@ -20,7 +20,12 @@
       "id": "abc103_b",
       "label": "B",
       "title": "String Rotation",
-      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_b"
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc103_c",

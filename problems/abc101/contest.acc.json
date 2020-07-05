@@ -20,7 +20,12 @@
       "id": "abc101_b",
       "label": "B",
       "title": "Digit Sums",
-      "url": "https://atcoder.jp/contests/abc101/tasks/abc101_b"
+      "url": "https://atcoder.jp/contests/abc101/tasks/abc101_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc099_a",

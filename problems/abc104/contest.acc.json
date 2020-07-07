@@ -20,7 +20,12 @@
       "id": "abc104_b",
       "label": "B",
       "title": "AcCepted",
-      "url": "https://atcoder.jp/contests/abc104/tasks/abc104_b"
+      "url": "https://atcoder.jp/contests/abc104/tasks/abc104_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc104_c",

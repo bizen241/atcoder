@@ -20,7 +20,12 @@
       "id": "abc108_b",
       "label": "B",
       "title": "Ruined Square",
-      "url": "https://atcoder.jp/contests/abc108/tasks/abc108_b"
+      "url": "https://atcoder.jp/contests/abc108/tasks/abc108_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc102_a",

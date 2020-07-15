@@ -20,7 +20,12 @@
       "id": "abc109_b",
       "label": "B",
       "title": "Shiritori",
-      "url": "https://atcoder.jp/contests/abc109/tasks/abc109_b"
+      "url": "https://atcoder.jp/contests/abc109/tasks/abc109_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "abc109_c",

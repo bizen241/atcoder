@@ -20,7 +20,12 @@
       "id": "abc111_b",
       "label": "B",
       "title": "AtCoder Beginner Contest 111",
-      "url": "https://atcoder.jp/contests/abc111/tasks/abc111_b"
+      "url": "https://atcoder.jp/contests/abc111/tasks/abc111_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.ts"
+      }
     },
     {
       "id": "arc103_a",

@@ -19,7 +19,11 @@
       "id": "abc113_b",
       "label": "B",
       "title": "Palace",
-      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_b"
+      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc113_c",

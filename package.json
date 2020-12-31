@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "author": "bizen241",
   "scripts": {
-    "test": "node ./scripts/test.js"
+    "ts": "node ./scripts/ts.js",
+    "kt": "node ./scripts/kt.js"
   },
   "dependencies": {
     "@types/node": "14.0.10",

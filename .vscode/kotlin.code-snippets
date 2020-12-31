@@ -1,0 +1,13 @@
+{
+  "template": {
+    "prefix": "t",
+    "body": [
+      "import java.util.*",
+      "",
+      "fun main() {",
+      "\t${1}",
+      "}",
+    ],
+    "scope": "kotlin"
+  },
+}

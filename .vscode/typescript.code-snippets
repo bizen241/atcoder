@@ -16,30 +16,37 @@
       "};",
       "",
       "console.log(main(read()));"
-    ]
+    ],
+    "scope": "typescript"
   },
   "input string": {
     "prefix": "s",
-    "body": "const ${1} = input[${2:0}][${3:0}];"
+    "body": "const ${1} = input[${2:0}][${3:0}];",
+    "scope": "typescript"
   },
   "input strings": {
     "prefix": "ss",
-    "body": "const ${1} = input[${2:0}];"
+    "body": "const ${1} = input[${2:0}];",
+    "scope": "typescript"
   },
   "input number": {
     "prefix": "n",
-    "body": "const ${1} = Number(input[${2:0}][${3:0}]);"
+    "body": "const ${1} = Number(input[${2:0}][${3:0}]);",
+    "scope": "typescript"
   },
   "input numbers": {
     "prefix": "ns",
-    "body": "const ${1} = input[${2:0}].map(Number);"
+    "body": "const ${1} = input[${2:0}].map(Number);",
+    "scope": "typescript"
   },
   "input bigint": {
     "prefix": "b",
-    "body": "const ${1} = BigInt(input[${2:0}][${3:0}]);"
+    "body": "const ${1} = BigInt(input[${2:0}][${3:0}]);",
+    "scope": "typescript"
   },
   "input bigints": {
     "prefix": "bs",
-    "body": "const ${1} = input[${2:0}].map(BigInt);"
+    "body": "const ${1} = input[${2:0}].map(BigInt);",
+    "scope": "typescript"
   }
 }

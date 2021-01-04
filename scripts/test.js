@@ -9,13 +9,17 @@ const commands = {
     compile: "kotlinc ./main.kt -include-runtime -d ./main.jar -XXLanguage:+InlineClasses",
     execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp ./main.jar MainKt",
   },
+  php: {
+    compile: "php -l ./main.php",
+    execute: "php ./main.php"
+  }
 };
 
-const options = {
+const spawnOptions = {
   cwd: process.env.INIT_CWD,
   stdio: "inherit",
 };
-const oj = (c) => spawn("oj", ["t", "-d", "./tests", "-c", c], options)
+const oj = (c) => spawn("oj", ["t", "-N", "-d", "./tests", "-c", c], spawnOptions)
 
 const lang = commands[process.argv[2]];
 if (lang === undefined) {
@@ -29,5 +33,5 @@ if (!compile) {
 } else {
   const [command, ...args] = compile.split(" ");
 
-  spawn(command, args, options).on("close", () => oj(execute));
+  spawn(command, args, spawnOptions).on("close", () => oj(execute));
 }

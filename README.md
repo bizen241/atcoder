@@ -35,6 +35,13 @@ $ sudo ldconfig
 $ yarn test cbf
 ```
 
+### Fortran
+
+```sh
+$ sudo apt install gfortran
+$ yarn test f
+```
+
 ### TypeScript
 
 ```sh

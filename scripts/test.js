@@ -5,6 +5,10 @@ const commands = {
     compile: "cobc -x -free -O2 -o ./a.out ./Main.cbf",
     execute: "./a.out"
   },
+  f: {
+    compile: "gfortran -O2 -o ./a.out ./Main.f08",
+    execute: "./a.out"
+  },
   ts: {
     compile: "tsc ./main.ts --target ESNext --moduleResolution Node --module CommonJS",
     execute: "node main.js",

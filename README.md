@@ -21,20 +21,36 @@ $ acc login
 
 ## Languages
 
+### COBOL
+
+```sh
+$ sudo apt install build-essential libgmp-dev libdb-dev
+$ curl -L -O https://sourceforge.net/projects/gnucobol/files/open-cobol/1.1/open-cobol-1.1.tar.gz
+$ tar -zxvf open-cobol-1.1.tar.gz
+$ cd open-cobol-1.1
+$ ./configure
+$ make
+$ sudo make install
+$ sudo ldconfig
+$ yarn test cbf
+```
+
 ### TypeScript
 
 ```sh
 $ yarn
 $ npm install -g typescript@3.8.3
+$ yarn test ts
 ```
 
 ### Kotlin
 
 ```sh
 $ sudo apt install zip
-$ curl -s "https://get.sdkman.io" | bash
+$ curl "https://get.sdkman.io" | bash
 $ sdk install kotlin 1.3.71
 $ sudo apt install openjdk-11-jdk-headless
+$ yarn test kt
 ```
 
 ### PHP
@@ -49,4 +65,5 @@ $ echo "[[ -e ~/.phpbrew/bashrc ]] && source ~/.phpbrew/bashrc" >> ~/.bashrc
 $ phpbrew update
 $ phpbrew install 7.4.4 +neutral
 $ phpbrew switch 7.4.4
+$ yarn test php
 ```

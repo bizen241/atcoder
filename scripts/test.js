@@ -20,6 +20,10 @@ const commands = {
   php: {
     compile: "php -l ./main.php",
     execute: "php ./main.php"
+  },
+  swift: {
+    compile: "swiftc -Ounchecked -o ./a.out ./Main.swift",
+    execute: "./a.out"
   }
 };
 

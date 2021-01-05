@@ -26,7 +26,7 @@ $ acc login
 ```sh
 $ sudo apt install build-essential libgmp-dev libdb-dev
 $ curl -L -O https://sourceforge.net/projects/gnucobol/files/open-cobol/1.1/open-cobol-1.1.tar.gz
-$ tar -zxvf open-cobol-1.1.tar.gz
+$ tar -zxf open-cobol-1.1.tar.gz
 $ cd open-cobol-1.1
 $ ./configure
 $ make
@@ -73,4 +73,15 @@ $ phpbrew update
 $ phpbrew install 7.4.4 +neutral
 $ phpbrew switch 7.4.4
 $ yarn test php
+```
+
+### Swift
+
+```sh
+$ sudo apt install libz3-dev
+$ curl -L -O https://swift.org/builds/swift-5.3.2-release/ubuntu2004/swift-5.3.2-RELEASE/swift-5.3.2-RELEASE-ubuntu20.04.tar.gz
+$ tar -zxf swift-5.3.2-RELEASE-ubuntu20.04.tar.gz
+$ sudo mv swift-5.3.2-RELEASE-ubuntu20.04 /usr/local
+$ echo 'export PATH=/usr/local/swift-5.3.2-RELEASE-ubuntu20.04/usr/bin:$PATH' >> ~/.bashrc
+$ yarn test swift
 ```

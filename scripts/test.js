@@ -23,11 +23,11 @@ const commands = {
     execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java Main"
   },
   ts: {
-    compile: "tsc ./main.ts --target ESNext --moduleResolution Node --module CommonJS",
-    execute: "node main.js",
+    compile: "tsc ./Main.ts --target ESNext --moduleResolution Node --module CommonJS",
+    execute: "node Main.js",
   },
   kt: {
-    compile: "kotlinc ./main.kt -include-runtime -d ./Main.jar -XXLanguage:+InlineClasses",
+    compile: "kotlinc ./Main.kt -include-runtime -d ./Main.jar -XXLanguage:+InlineClasses",
     execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp ./Main.jar MainKt",
   },
   pl: {
@@ -35,8 +35,8 @@ const commands = {
     execute: "perl -X ./Main.pl"
   },
   php: {
-    compile: "php -l ./main.php",
-    execute: "php ./main.php"
+    compile: "php -l ./Main.php",
+    execute: "php ./Main.php"
   },
   py: {
     execute: "python3.8 ./Main.py",
@@ -46,7 +46,7 @@ const commands = {
     execute: "ruby ./Main.rb"
   },
   rs: {
-    compile: "bash -c 'cp ./main.rs ./../../../config/rust/src/main.rs && cargo build --release --quiet --manifest-path=./../../../config/rust/Cargo.toml && cp ./../../../config/rust/target/release/main ./a.out'",
+    compile: "bash -c 'cp ./Main.rs ./../../../config/rust/src/main.rs && cargo build --release --quiet --manifest-path=./../../../config/rust/Cargo.toml && cp ./../../../config/rust/target/release/main ./a.out'",
     execute: "./a.out",
   },
   swift: {

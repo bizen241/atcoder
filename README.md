@@ -99,6 +99,13 @@ $ sudo apt install python3.8
 $ yarn test py
 ```
 
+### Ruby
+
+```sh
+$ sudo apt install ruby
+$ yarn test rb
+```
+
 ### Rust
 
 ```sh

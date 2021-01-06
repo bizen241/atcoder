@@ -41,6 +41,10 @@ const commands = {
   py: {
     execute: "python3.8 ./Main.py",
   },
+  rb: {
+    compile: "ruby -w -c ./Main.rb",
+    execute: "ruby ./Main.rb"
+  },
   rs: {
     compile: "bash -c 'cp ./main.rs ./../../../config/rust/src/main.rs && cargo build --release --quiet --manifest-path=./../../../config/rust/Cargo.toml && cp ./../../../config/rust/target/release/main ./a.out'",
     execute: "./a.out",

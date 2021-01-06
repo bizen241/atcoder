@@ -9,6 +9,10 @@ const commands = {
     compile: "gfortran -O2 -o ./a.out ./Main.f08",
     execute: "./a.out"
   },
+  go: {
+    compile: "go build -buildmode=exe -o ./a.out ./Main.go",
+    execute: "./a.out"
+  },
   ts: {
     compile: "tsc ./main.ts --target ESNext --moduleResolution Node --module CommonJS",
     execute: "node main.js",

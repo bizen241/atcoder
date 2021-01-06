@@ -42,6 +42,14 @@ $ sudo apt install gfortran
 $ yarn test f
 ```
 
+### Go
+
+```sh
+$ sudo apt install golang-1.14-go
+$ echo 'export PATH=/usr/lib/go-1.14/bin:$PATH' >> ~/.bashrc
+$ yarn test go
+```
+
 ### TypeScript
 
 ```sh

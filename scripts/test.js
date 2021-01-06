@@ -1,3 +1,4 @@
+const { parseArgsStringToArgv } = require("string-argv");
 const { spawn } = require("child_process");
 
 const commands = {
@@ -25,6 +26,10 @@ const commands = {
     compile: "php -l ./main.php",
     execute: "php ./main.php"
   },
+  rs: {
+    compile: "bash -c 'cp ./main.rs ./../../../config/rust/src/main.rs && cargo build --release --quiet --manifest-path=./../../../config/rust/Cargo.toml && cp ./../../../config/rust/target/release/main ./a.out'",
+    execute: "./a.out",
+  },
   swift: {
     compile: "swiftc -Ounchecked -o ./a.out ./Main.swift",
     execute: "./a.out"
@@ -48,6 +53,7 @@ if (!compile) {
   oj(execute);
 } else {
   const [command, ...args] = compile.split(" ");
+  const argv = parseArgsStringToArgv(args.join(" "));
 
-  spawn(command, args, spawnOptions).on("close", () => oj(execute));
+  spawn(command, argv, spawnOptions).on("close", () => oj(execute));
 }

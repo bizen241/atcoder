@@ -83,6 +83,12 @@ $ phpbrew switch 7.4.4
 $ yarn test php
 ```
 
+### Rust
+
+```sh
+$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
 ### Swift
 
 ```sh

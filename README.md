@@ -1,5 +1,9 @@
 # AtCoder
 
+## Requirements
+
+- Ubuntu 20.04
+
 ## Install
 
 ### online-judge-tools
@@ -24,14 +28,7 @@ $ acc login
 ### COBOL
 
 ```sh
-$ sudo apt install build-essential libgmp-dev libdb-dev
-$ curl -L -O https://sourceforge.net/projects/gnucobol/files/open-cobol/1.1/open-cobol-1.1.tar.gz
-$ tar -zxf open-cobol-1.1.tar.gz
-$ cd open-cobol-1.1
-$ ./configure
-$ make
-$ sudo make install
-$ sudo ldconfig
+$ sudo apt install open-cobol
 $ yarn test cbf
 ```
 
@@ -54,7 +51,6 @@ $ yarn test go
 
 ```sh
 $ yarn
-$ npm install -g typescript@3.8.3
 $ yarn test ts
 ```
 
@@ -71,15 +67,7 @@ $ yarn test kt
 ### PHP
 
 ```sh
-$ sudo apt install build-essential libbz2-dev libreadline-dev libsqlite3-dev libssl-dev libxml2-dev libxslt1-dev php7.4-cli php7.4-bz2 pkg-config
-$ curl -L -O "https://github.com/phpbrew/phpbrew/releases/latest/download/phpbrew.phar"
-$ chmod +x phpbrew.phar
-$ sudo mv phpbrew.phar /usr/local/bin/phpbrew
-$ phpbrew init
-$ echo "[[ -e ~/.phpbrew/bashrc ]] && source ~/.phpbrew/bashrc" >> ~/.bashrc
-$ phpbrew update
-$ phpbrew install 7.4.4 +neutral
-$ phpbrew switch 7.4.4
+$ sudo apt install php7.4
 $ yarn test php
 ```
 
@@ -87,6 +75,7 @@ $ yarn test php
 
 ```sh
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+$ yarn test rs
 ```
 
 ### Swift

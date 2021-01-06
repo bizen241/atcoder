@@ -30,6 +30,9 @@ const commands = {
     compile: "php -l ./main.php",
     execute: "php ./main.php"
   },
+  py: {
+    execute: "python3.8 ./Main.py",
+  },
   rs: {
     compile: "bash -c 'cp ./main.rs ./../../../config/rust/src/main.rs && cargo build --release --quiet --manifest-path=./../../../config/rust/Cargo.toml && cp ./../../../config/rust/target/release/main ./a.out'",
     execute: "./a.out",

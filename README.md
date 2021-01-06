@@ -78,6 +78,13 @@ $ sudo apt install php7.4
 $ yarn test php
 ```
 
+### Python
+
+```sh
+$ sudo apt install python3.8
+$ yarn test py
+```
+
 ### Rust
 
 ```sh

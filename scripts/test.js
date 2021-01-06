@@ -14,13 +14,17 @@ const commands = {
     compile: "go build -buildmode=exe -o ./a.out ./Main.go",
     execute: "./a.out"
   },
+  java: {
+    compile: "/usr/lib/jvm/java-11-openjdk-amd64/bin/javac ./Main.java",
+    execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java Main"
+  },
   ts: {
     compile: "tsc ./main.ts --target ESNext --moduleResolution Node --module CommonJS",
     execute: "node main.js",
   },
   kt: {
-    compile: "kotlinc ./main.kt -include-runtime -d ./main.jar -XXLanguage:+InlineClasses",
-    execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp ./main.jar MainKt",
+    compile: "kotlinc ./main.kt -include-runtime -d ./Main.jar -XXLanguage:+InlineClasses",
+    execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp ./Main.jar MainKt",
   },
   php: {
     compile: "php -l ./main.php",

@@ -47,6 +47,13 @@ $ echo 'export PATH=/usr/lib/go-1.14/bin:$PATH' >> ~/.bashrc
 $ yarn test go
 ```
 
+### Java
+
+```sh
+$ sudo apt install openjdk-11-jdk-headless
+$ yarn test java
+```
+
 ### TypeScript
 
 ```sh

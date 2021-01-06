@@ -2,7 +2,8 @@ node_modules
 
 a.out
 main.js
-main.jar
+Main.jar
+Main.class
 
 src
 target

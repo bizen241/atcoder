@@ -25,6 +25,13 @@ $ acc login
 
 ## Languages
 
+### C#
+
+```sh
+$ sudo apt install mono-devel
+$ yarn test cs
+```
+
 ### COBOL
 
 ```sh

@@ -2,6 +2,10 @@ const { parseArgsStringToArgv } = require("string-argv");
 const { spawn } = require("child_process");
 
 const commands = {
+  cs: {
+    compile: "mcs -warn:0 -o+ -unsafe -r:System.Numerics -langversion:latest ./Main.cs -out:./Main.exe",
+    execute: "mono ./Main.exe"
+  },
   cbf: {
     compile: "cobc -x -free -O2 -o ./a.out ./Main.cbf",
     execute: "./a.out"

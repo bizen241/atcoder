@@ -30,6 +30,10 @@ const commands = {
     compile: "kotlinc ./main.kt -include-runtime -d ./Main.jar -XXLanguage:+InlineClasses",
     execute: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp ./Main.jar MainKt",
   },
+  pl: {
+    compile: "perl -W -c ./Main.pl",
+    execute: "perl -X ./Main.pl"
+  },
   php: {
     compile: "php -l ./main.php",
     execute: "php ./main.php"

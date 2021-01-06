@@ -78,6 +78,13 @@ $ sudo apt install openjdk-11-jdk-headless
 $ yarn test kt
 ```
 
+### Perl
+
+```sh
+$ sudo apt install perl
+$ yarn test pl
+```
+
 ### PHP
 
 ```sh

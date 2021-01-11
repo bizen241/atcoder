@@ -19,7 +19,11 @@
       "id": "abc114_b",
       "label": "B",
       "title": "754",
-      "url": "https://atcoder.jp/contests/abc114/tasks/abc114_b"
+      "url": "https://atcoder.jp/contests/abc114/tasks/abc114_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc114_c",

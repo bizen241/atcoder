@@ -20,7 +20,12 @@
       "id": "abc117_b",
       "label": "B",
       "title": "Polygon",
-      "url": "https://atcoder.jp/contests/abc117/tasks/abc117_b"
+      "url": "https://atcoder.jp/contests/abc117/tasks/abc117_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc117_c",

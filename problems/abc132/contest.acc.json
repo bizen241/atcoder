@@ -20,7 +20,12 @@
       "id": "abc132_b",
       "label": "B",
       "title": "Ordinary Number",
-      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_b"
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc132_c",

@@ -20,7 +20,12 @@
       "id": "abc121_b",
       "label": "B",
       "title": "Can you solve this?",
-      "url": "https://atcoder.jp/contests/abc121/tasks/abc121_b"
+      "url": "https://atcoder.jp/contests/abc121/tasks/abc121_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc121_c",

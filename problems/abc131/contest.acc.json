@@ -20,7 +20,12 @@
       "id": "abc131_b",
       "label": "B",
       "title": "Bite Eating",
-      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_b"
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc131_c",

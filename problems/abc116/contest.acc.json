@@ -19,7 +19,12 @@
       "id": "abc116_b",
       "label": "B",
       "title": "Collatz Problem",
-      "url": "https://atcoder.jp/contests/abc116/tasks/abc116_b"
+      "url": "https://atcoder.jp/contests/abc116/tasks/abc116_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc116_c",

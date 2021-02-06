@@ -20,7 +20,12 @@
       "id": "abc133_b",
       "label": "B",
       "title": "Good Distance",
-      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_b"
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc133_c",

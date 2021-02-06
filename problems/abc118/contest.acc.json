@@ -20,7 +20,12 @@
       "id": "abc118_b",
       "label": "B",
       "title": "Foods Loved by Everyone",
-      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_b"
+      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc118_c",

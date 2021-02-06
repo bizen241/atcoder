@@ -20,7 +20,12 @@
       "id": "abc120_b",
       "label": "B",
       "title": "K-th Common Divisor",
-      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_b"
+      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc120_c",

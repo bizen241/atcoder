@@ -20,7 +20,12 @@
       "id": "abc136_b",
       "label": "B",
       "title": "Uneven Numbers",
-      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_b"
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc136_c",

@@ -20,7 +20,12 @@
       "id": "abc157_b",
       "label": "B",
       "title": "Bingo",
-      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_b"
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc157_c",

@@ -20,7 +20,12 @@
       "id": "abc159_b",
       "label": "B",
       "title": "String Palindrome",
-      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_b"
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc159_c",

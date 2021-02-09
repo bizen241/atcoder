@@ -20,7 +20,12 @@
       "id": "abc155_b",
       "label": "B",
       "title": "Papers, Please",
-      "url": "https://atcoder.jp/contests/abc155/tasks/abc155_b"
+      "url": "https://atcoder.jp/contests/abc155/tasks/abc155_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc155_c",

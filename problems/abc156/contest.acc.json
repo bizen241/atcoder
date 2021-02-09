@@ -20,7 +20,12 @@
       "id": "abc156_b",
       "label": "B",
       "title": "Digits",
-      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_b"
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc156_c",

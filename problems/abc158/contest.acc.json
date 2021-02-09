@@ -20,7 +20,12 @@
       "id": "abc158_b",
       "label": "B",
       "title": "Count Balls",
-      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_b"
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc158_c",

@@ -20,7 +20,12 @@
       "id": "abc148_b",
       "label": "B",
       "title": "Strings with the Same Length",
-      "url": "https://atcoder.jp/contests/abc148/tasks/abc148_b"
+      "url": "https://atcoder.jp/contests/abc148/tasks/abc148_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc148_c",

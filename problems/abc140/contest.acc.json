@@ -20,7 +20,12 @@
       "id": "abc140_b",
       "label": "B",
       "title": "Buffet",
-      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_b"
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc140_c",

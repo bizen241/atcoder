@@ -20,7 +20,12 @@
       "id": "abc142_b",
       "label": "B",
       "title": "Roller Coaster",
-      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_b"
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc142_c",

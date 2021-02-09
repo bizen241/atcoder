@@ -20,7 +20,12 @@
       "id": "abc154_b",
       "label": "B",
       "title": "I miss you...",
-      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_b"
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc154_c",

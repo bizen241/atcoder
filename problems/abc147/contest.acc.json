@@ -20,7 +20,12 @@
       "id": "abc147_b",
       "label": "B",
       "title": "Palindrome-philia",
-      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_b"
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc147_c",

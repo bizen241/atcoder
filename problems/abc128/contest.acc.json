@@ -20,7 +20,12 @@
       "id": "abc128_b",
       "label": "B",
       "title": "Guidebook",
-      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_b"
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc128_c",

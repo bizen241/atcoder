@@ -20,7 +20,12 @@
       "id": "abc151_b",
       "label": "B",
       "title": "Achieve the Goal",
-      "url": "https://atcoder.jp/contests/abc151/tasks/abc151_b"
+      "url": "https://atcoder.jp/contests/abc151/tasks/abc151_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc151_c",

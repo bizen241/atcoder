@@ -20,7 +20,12 @@
       "id": "abc153_b",
       "label": "B",
       "title": "Common Raccoon vs Monster",
-      "url": "https://atcoder.jp/contests/abc153/tasks/abc153_b"
+      "url": "https://atcoder.jp/contests/abc153/tasks/abc153_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc153_c",

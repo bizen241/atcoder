@@ -20,7 +20,12 @@
       "id": "abc181_b",
       "label": "B",
       "title": "Trapezoid Sum",
-      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_b"
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc181_c",

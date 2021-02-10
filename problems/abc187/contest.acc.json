@@ -20,7 +20,12 @@
       "id": "abc187_b",
       "label": "B",
       "title": "Gentle Pairs",
-      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_b"
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc187_c",

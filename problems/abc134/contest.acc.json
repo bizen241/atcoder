@@ -20,7 +20,12 @@
       "id": "abc134_b",
       "label": "B",
       "title": "Golden Apple",
-      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_b"
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc134_c",

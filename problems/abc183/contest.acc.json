@@ -20,7 +20,12 @@
       "id": "abc183_b",
       "label": "B",
       "title": "Billiards",
-      "url": "https://atcoder.jp/contests/abc183/tasks/abc183_b"
+      "url": "https://atcoder.jp/contests/abc183/tasks/abc183_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc183_c",

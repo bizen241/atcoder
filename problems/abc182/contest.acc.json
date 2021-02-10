@@ -20,7 +20,12 @@
       "id": "abc182_b",
       "label": "B",
       "title": "Almost GCD",
-      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_b"
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc182_c",

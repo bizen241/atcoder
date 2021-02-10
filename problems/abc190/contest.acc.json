@@ -20,7 +20,12 @@
       "id": "abc190_b",
       "label": "B",
       "title": "Magic 3",
-      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_b"
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc190_c",

@@ -20,7 +20,12 @@
       "id": "abc185_b",
       "label": "B",
       "title": "Smartphone Addiction",
-      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_b"
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc185_c",

@@ -20,7 +20,12 @@
       "id": "abc189_b",
       "label": "B",
       "title": "Alcoholic",
-      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_b"
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc189_c",

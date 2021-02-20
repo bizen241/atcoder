@@ -31,7 +31,12 @@
       "id": "abc192_c",
       "label": "C",
       "title": "Kaprekar Number",
-      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_c"
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "Main.ts"
+      }
     },
     {
       "id": "abc192_d",
